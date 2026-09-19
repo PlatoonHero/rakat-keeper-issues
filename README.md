@@ -1,7 +1,7 @@
 # Rakat Keeper — Issues
 
 This repository exists solely to host a public issue tracker for
-[Rakat Keeper](https://github.com/PlatoonHero/rakat-counter), a privacy-first
+[Rakat Keeper](https://github.com/PlatoonHero/rakat-keeper), a privacy-first
 Android app for counting prayer rakat.
 
 The app's source code lives in a **private** repository. GitHub does not
